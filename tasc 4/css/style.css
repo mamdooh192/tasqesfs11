@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.content_1{
+    width: 90%;
+    height: 550px;
+    /* background: gray; */
+    margin: auto;
+}
+.write{
+    width: 50%;
+    height: 50%;
+    /* background: red; */
+    float: left;
+    text-align: center;
+    margin-top: 250px;
+}
+.image{
+    width: 50%;
+    height: 100%;
+/* background: green; */
+float: left;
+
+
+}
+.clr{
+    clear: both;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    width: 100%;
+    height: 750px;
+    background: #f88f8;
+    margin-top: 100px;
+}
+.imag{
+    width: 40%;
+    height: 100%;
+    /* background: blue; */
+    float: left;
+}
+.imag img {
+    width: 100%;
+    height: 100%; 
+}
+.itm{
+    width: 50%;
+    height: 100%;
+    /* background: red; */
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 190px;
+}
