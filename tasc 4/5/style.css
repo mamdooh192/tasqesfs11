@@ -1,0 +1,29 @@
+.sec{
+    width: 100%;
+    height: 600px;
+    background: #040e27;
+    overflow: hidden;
+}
+.cont{
+    width: 80%;
+    height: 50%;
+    margin: auto;
+    /* background: red; */
+    text-align: center;
+    position: relative;
+
+}
+.cont h1{
+    font-size: 150px;
+    -webkit-text-stroke:1px #1e273d;
+    -webkit-text-fill-color: transparent;
+    font-family: sans-serif;
+}
+.cont span{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    color: blue;
+    font-size: 30px;
+    font-weight: 700;
+}

@@ -1,0 +1,32 @@
+.content{
+    width: 80%;
+    height: 500px;
+    background: #7352e9;
+    margin: auto;
+    /* font-family: Schoolbell; */
+}
+.item{
+    text-align: center;
+    width:60% ;
+    height: 50%;
+    /* background: red; */
+    margin-left: 200px;
+    padding-top: 150px;
+    color: white;
+}
+.item input {
+    border: none;
+    outline: none;
+    padding: 10px 50px;
+    border: 1px solid white;
+    background: transparent;
+}
+::placeholder {
+    color: white;
+}
+.item button{
+    border: none;
+    border: 3px solid;
+    padding: 10px 30px;
+    font-size: 15px;
+}

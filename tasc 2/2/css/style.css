@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+}
+.cont{
+    width: 60%;
+    height: 600px;
+    /* background: gray; */
+    margin: auto
+}
+.tob{
+    width:100% ;
+    height: 30%;
+    /* background: red; */
+    text-align: center;
+    margin-bottom: -50px;
+    margin-top: 40px;
+}
+.tob p{
+    font-size: 10px;
+    color: green;
+}
+.bottom{
+    width: 100%;
+    height: 70%;
+    background: green;
+}
+.info_left{
+    width: 50%;
+    height: 100%;
+    background: yellow;
+    float: left;
+}
+.line{
+    width: 300px;
+    height: 1px;
+    background:gray ;
+    margin: auto;
+}
+.info_right{
+    width: 50%;
+    height: 100%;
+    background: blue;
+    float: left;
+}
+.box_left{
+    width: 100%;
+    height: 33.2%;
+    background: black;
+}
+.icon{
+    width: 20%;
+    height: 100%;
+    background: fuchsia;
+    float: left;
+}
+.written{
+    width: 80%;
+    height: 100%;
+    background: firebrick;
+    float: left;
+}

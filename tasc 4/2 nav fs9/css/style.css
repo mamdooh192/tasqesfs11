@@ -1,0 +1,16 @@
+.menu{
+    width: 100%;
+    height: 65px;
+    background: gray;
+}
+.menu ul li {
+    float: left;
+    margin-left: 80px;
+    margin-top: 20px;
+    list-style: none;
+}
+.menu ul li a{
+    color: white;
+    text-decoration: none;
+    /* list-style-type: style none; ; */
+}
